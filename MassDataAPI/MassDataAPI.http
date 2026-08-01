@@ -1,0 +1,6 @@
+@MassDataAPI_HostAddress = http://localhost:5194
+
+GET {{MassDataAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
